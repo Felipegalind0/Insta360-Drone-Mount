@@ -1,7 +1,7 @@
 ###### READMEv2.0 <br/> [Made with ❤️ by](https://github.com/sponsors/Felipegalind0) [Felipe Galindo](https://felipegalind0.github.io)
 
 # Insta360-Drone-Mount
-An Open Source Insta360 Drone Mount
+An Open Source Insta360 Drone Mount capable of flying on a A2S at full speed for up to 18 Minutes & no effect in flight dynamics.
 
 Drones equipped with a 360 camera allow for a unique and immersive experience that can benefit both professionals and hobbyists alike. With a 360 camera, users are able to capture stunning visuals that were previously only achievable through expensive and complex equipment. By using an open source drone with a 360 camera, users can benefit from a wide range of features and capabilities, such as the ability to take high-quality aerial footage, live-streaming capabilities, and the ability to take panoramic images. Additionally, open source projects provide users with the freedom to customize their system and create their own unique experience.
 
