@@ -13,3 +13,7 @@ https://www.thingiverse.com/thing:5532281
 https://www.continuum.umn.edu/2022/02/students-take-library-equipment-to-new-heights/
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Felipegalind0?label=Sponsors&logoColor=FEC328)](https://github.com/sponsors/Felipegalind0)
+
+I use these zip ties
+
+[https://www.amazon.com/gp/product/B06X1CKSD2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1#](https://www.amazon.com/gp/product/B06X1CKSD2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1#)
