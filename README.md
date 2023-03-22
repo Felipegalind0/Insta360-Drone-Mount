@@ -17,3 +17,6 @@ https://www.continuum.umn.edu/2022/02/students-take-library-equipment-to-new-hei
 I use these zip ties
 
 [https://www.amazon.com/gp/product/B06X1CKSD2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1#](https://www.amazon.com/gp/product/B06X1CKSD2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1#)
+
+And these screws:
+[https://www.amazon.com/gp/product/B01MS60KSY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B01MS60KSY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
